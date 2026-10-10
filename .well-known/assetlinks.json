@@ -14,5 +14,13 @@
       "package_name": "id.wakatobikab.pendaftaranpelatihan",
       "sha256_cert_fingerprints": ["13:0C:DA:D2:5B:3F:15:3B:A0:CC:61:02:FC:42:44:CC:4C:20:27:85:D9:85:9E:60:37:39:5F:C1:0C:D7:2E:E6"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eatech2728.siaphadir",
+      "sha256_cert_fingerprints": ["9F:CF:86:46:DE:C1:6D:54:47:41:DB:EC:2B:FD:3C:B4:1D:D0:37:05:80:27:10:9E:E5:E5:66:CD:E7:05:DB:A6"]
+    }
   }
 ]
